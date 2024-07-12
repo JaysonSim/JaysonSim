@@ -82,13 +82,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/gameflix-official">
+  <a href="https://github.com/JaysonSim">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gameflix-official&theme=radical&border=7F3FBF&background=0D1117" alt="Jayson's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gameflix-official">
+  <a href="https://github.com/JaysonSim">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gameflix-official&theme=radical" alt="Jayson's GitHub Contribution"/>
   </a>
 </p>
