@@ -44,7 +44,7 @@
   
  ✌️ &emsp; I enjoy creating new programs and sharing them with others. <br/><br/>
  ❤️ &emsp; I love writing code and developing new features.<br/><br/>
- 📧 &emsp; Reach me anytime: Jayson@gameflix.pro<br/><br/>
+ 📧 &emsp; Reach me anytime: jaysonsimwork@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/gameflix-official/JaysonSim/issues)
 
 </p>
