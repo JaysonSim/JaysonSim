@@ -68,24 +68,18 @@
 
 <h2>Top Open Source</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <div style="flex: 1; margin: 10px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; max-width: 48%;">
     <a href="https://github.com/JaysonSim/AudioStream" style="display: block; height: 100%;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=AudioStream&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="AudioStream" style="width: 100%; height: 100%;"/>
     </a>
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <a href="https://github.com/JaysonSim/VoiceLine" style="display: block; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="VoiceLine" style="width: 100%; height: 100%;"/>
-    </a>
-  </div>
-  <div style="flex: 1; margin: 10px;">
+  <div style="flex: 1; padding: 10px; max-width: 48%;">
     <a href="https://github.com/JaysonSim/VoiceLine" style="display: block; height: 100%;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="VoiceLine" style="width: 100%; height: 100%;"/>
     </a>
   </div>
 </div>
-
 
 ## Top Open Source -
 [![AudioStream](https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=AudioStream&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JaysonSim/AudioStream)
