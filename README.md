@@ -70,6 +70,8 @@
 [![AudioStream](https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=AudioStream&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JaysonSim/AudioStream)
 
 [![VoiceLine](https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JaysonSim/VoiceLine)
+[![VoiceLine](https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JaysonSim/VoiceLine)
+
 
 <p align="left">
   <a href="https://github.com/JaysonSim?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
