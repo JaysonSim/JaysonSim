@@ -67,22 +67,19 @@
 <br/>
 
 <h2>Top Open Source</h2>
-  <tr>
-    <td style="width: 50%; height: 20%; padding: 10px; vertical-align: top;">
-      <div style="height: 100%; display: flex; flex-direction: column; justify-content: stretch;">
-        <a href="https://github.com/JaysonSim/AudioStream" style="height: 100%; display: block;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=AudioStream&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="AudioStream" style="width: 100%; height: 100%;"/>
-        </a>
-      </div>
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <div style="height: 100%; display: flex; flex-direction: column; justify-content: stretch;">
-        <a href="https://github.com/JaysonSim/VoiceLine" style="height: 100%; display: block;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="VoiceLine" style="width: 100%; height: 100%;"/>
-        </a>
-      </div>
-    </td>
-  </tr>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px; max-width: 48%;">
+    <a href="https://github.com/JaysonSim/AudioStream" style="display: block;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=AudioStream&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="AudioStream" style="width: 100%; height: 200px; object-fit: cover;"/>
+    </a>
+  </div>
+  <div style="flex: 1; padding: 10px; max-width: 48%;">
+    <a href="https://github.com/JaysonSim/VoiceLine" style="display: block;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaysonSim&repo=VoiceLine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="VoiceLine" style="width: 100%; height: 200px; object-fit: cover;"/>
+    </a>
+  </div>
+</div>
 
 
 ## Top Open Source -
